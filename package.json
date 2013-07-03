@@ -1,14 +1,14 @@
 {
   "name": "static-handlebars-brunch",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Compile Handlebar templates to HTML with brunch",
   "author": {
-    "name": "Brendan Loudermilk (bloudermilk)"
+    "name": "Sam Jenkins (mizahnyx)"
   },
   "homepage": "https://github.com/bloudermilk/static-handlebars-brunch",
   "repository": {
     "type": "git",
-    "url": "git@github.com:bloudermilk/static-handlebars-brunch.git"
+    "url": "git@github.com:mizahnyx/static-handlebars-brunch.git"
   },
   "main": "./lib/index",
   "scripts": {
